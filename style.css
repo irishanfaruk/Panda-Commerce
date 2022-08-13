@@ -9,6 +9,11 @@
     color: #FFC107;
 }
 
+.price-number {
+    font-weight: 400;
+    font-size: 24px;
+}
+
 .category-box1 {
     background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
     height: 120px;
